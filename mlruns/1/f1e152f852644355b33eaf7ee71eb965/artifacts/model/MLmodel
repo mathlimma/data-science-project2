@@ -1,0 +1,18 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.5
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: f1e152f852644355b33eaf7ee71eb965
+signature:
+  inputs: '[{"name": "deaths", "type": "long"}, {"name": "order_for_place", "type":
+    "long"}, {"name": "estimated_population_2019", "type": "double"}, {"name": "death_rate",
+    "type": "double"}]'
+  outputs: '[{"type": "double"}]'
+utc_time_created: '2020-11-17 02:09:56.070149'

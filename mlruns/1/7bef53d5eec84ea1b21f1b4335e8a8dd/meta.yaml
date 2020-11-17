@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mal/Projects/project2-data-science/mlruns/1/7bef53d5eec84ea1b21f1b4335e8a8dd/artifacts
+end_time: 1605578992281
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7bef53d5eec84ea1b21f1b4335e8a8dd
+run_uuid: 7bef53d5eec84ea1b21f1b4335e8a8dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605578992219
+status: 3
+tags: []
+user_id: mal

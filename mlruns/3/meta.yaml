@@ -1,0 +1,4 @@
+artifact_location: file:///home/mal/Projects/project2-data-science/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: Exponential Smoothing

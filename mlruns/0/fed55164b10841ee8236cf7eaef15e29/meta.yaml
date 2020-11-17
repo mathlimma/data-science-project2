@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mal/Projects/project2-data-science/mlruns/0/fed55164b10841ee8236cf7eaef15e29/artifacts
+end_time: 1605578982885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fed55164b10841ee8236cf7eaef15e29
+run_uuid: fed55164b10841ee8236cf7eaef15e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605578982879
+status: 3
+tags: []
+user_id: mal
